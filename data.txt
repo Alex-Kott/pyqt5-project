@@ -1,0 +1,6 @@
+Brand    Model    Color
+______________________
+Ford    Mustang    Blue
+Porsche    Carrera    Silver
+Mitsubishi    Pajero    Black
+Opel    Astra    Blue
